@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* <img src="http://127.0.0.1:4000/images/uni_freiburg_v2.png" height="40" width="317.9"/> <br>
+<b>Albert Ludwig University of Freiburg (Freiburg, Germany)</b> <br>
+Mar. 2022 - Present<br>
+Ph.D. in Microsystems Engineering<br>
+Advisor: [Prof. Moritz Diehl](https://www.syscop.de/people/moritz-diehl). <br>
+
+
+* <img src="http://127.0.0.1:4000/images/eth_zurich_v2.png" height="45" width="179.0"/> <br>
+<b>ETH (Zürich, Switzerland) </b> <br>
+Sep. 2019 - Jan. 2021<br>
+Master of Science in Robotics, Systems and Control<br>
+
+
+* <img src="http://127.0.0.1:4000/images/fudan.svg"  height="70" width="70"/> <br>
+<b>Fudan University (Shanghai, China) </b> <br>
+Sep. 2015 - Jun. 2019<br>
+Bachelor in Electronic Engineering<br>
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* <img src="http://127.0.0.1:4000/images/bosch.png"  height="40" width="178.4"/> <br>
+<b>Robert Bosch GmbH, Corporate Research (Stuttgart, Germany) </b> <br>
+Mar. 2022 - Present<br>
+Industrial Ph.D. Student<br>
