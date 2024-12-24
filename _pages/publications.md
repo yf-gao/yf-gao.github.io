@@ -36,11 +36,10 @@ You can also find my articles on
   **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Moritz Diehl.<br>
   <i> IFAC-PapersOnLine </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
-  [[pdf](https://arxiv.org/pdf/2407.14220)]
+  [[pdf](https://publications.syscop.de/Gao2024.pdf)]
   <div id="bibtex-Gao2024" style="display:none">
   <pre>
   @article{Gao2024,
-    keywords = {syscop-public, dfg-robust-mpc},
     issn = {2405-8963},
     doi = {https://doi.org/10.1016/j.ifacol.2024.09.024},
     volume = {58},
@@ -83,7 +82,7 @@ You can also find my articles on
   @inproceedings{Gao2023,
     year = {2023},
     booktitle = {Proc. of the European Control Conf. (ECC)},
-    author = {Gao, Yunfan and Messerer, Florian and Frey, Jonathan and {van Duijkeren}, Niels and Diehl, Moritz},
+    author = {Yunfan Gao and Florian Messerer and Jonathan Frey and Niels van Duijkeren and Moritz Diehl},
     title = {Collision-free Motion Planning for Mobile Robots by Zero-order Robust Optimization-based MPC},
   }
   </pre>
@@ -100,7 +99,7 @@ You can also find my articles on
   <pre>
   @inproceedings{gao2021fedswap,
     title={FedSwap: A federated learning based {5G} decentralized dynamic spectrum access system},
-    author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Li, Bing and Wang, Yu and Chen, Yiran},
+    author={Zhihui Gao and Ang Li and Yunfan Gao and Bing Li and Yu Wang and Yiran Chen},
     booktitle={IEEE/ACM ICCAD'21},
     year={2021},
   }
@@ -117,7 +116,7 @@ You can also find my articles on
   <pre>
   @article{gao2021hermes,
     title={Hermes: Decentralized dynamic spectrum access system for massive devices deployment in {5G}},
-    author={Gao, Zhihui and Li, Ang and Gao, Yunfan and Wang, Yu and Chen, Yiran},
+    author={Zhihui Gao and Ang Li and Yunfan Gao and Yu Wang and Yiran Chen},
     booktitle={Proc. ACM EWSN'21},
     year={2021},
   }
@@ -138,7 +137,7 @@ You can also find my articles on
   <pre>
   @article{gao2020crisloc,
     title={CRISLoc: Reconstructable {CSI} fingerprinting for indoor smartphone localization},
-    author={Gao, Zhihui and Gao, Yunfan and Wang, Sulei and Li, Dan and Xu, Yuedong},
+    author={Zhihui Gao and Yunfan Gao and Sulei Wang and Dan Li and Yuedong Xu},
     journal={IEEE Internet of Things Journal},
     volume={8},
     number={5},
