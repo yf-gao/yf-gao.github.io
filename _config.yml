@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yunfan Gao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yunfan Gao"
 description              : &description "Ph.D. student at Robert Bosch GmbH Corporate Research and University of Freiburg"
 url                      : https://yf-gao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
