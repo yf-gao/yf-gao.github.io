@@ -92,7 +92,7 @@ You can also find my articles on
 
 * FedSwap: A federated learning based 5G decentralized dynamic spectrum access system.<br>
   Zhihui Gao, Ang Li, **Yunfan Gao**, Bing Li, Yu Wang, Yiran Chen.<br>
-  <i> (INVITED) Proc. IEEE/ACM International Conf. On Computer Aided Design (**ICCAD’21**) </i>, 2021.<br>
+  <i> (INVITED) Proc. IEEE/ACM Int. Conf. On Computer Aided Design (ICCAD) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021fedswap');">bibtex</a>]
   [[pdf](https://ieeexplore.ieee.org/document/9643496)]
   <div id="bibtex-gao2021fedswap" style="display:none">
@@ -108,16 +108,16 @@ You can also find my articles on
 
 * Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
   Zhihui Gao, Ang Li, **Yunfan Gao**, Yu Wang, Yiran Chen.<br>
-  <i> Proc. International Conf. on Embedded Wireless Systems and Networks (**EWSN'21**) </i>, 2021.<br>
+  <i> Proc. Int. Conf. on Embedded Wireless Systems and Networks (EWSN) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021hermes');">bibtex</a>]
   [[code](https://github.com/zhihuigao/EWSN2021-Hermes)]
   [[pdf](https://dl.acm.org/doi/10.5555/3451271.3451273)]
   <div id="bibtex-gao2021hermes" style="display:none">
   <pre>
-  @article{gao2021hermes,
+  @inproceedings{gao2021hermes,
     title={Hermes: Decentralized dynamic spectrum access system for massive devices deployment in {5G}},
     author={Zhihui Gao and Ang Li and Yunfan Gao and Yu Wang and Yiran Chen},
-    booktitle={Proc. ACM EWSN'21},
+    booktitle = {Proc. of the Int. Conf. on Embedded Wireless Systems and Networks},
     year={2021},
   }
   </pre>
@@ -129,7 +129,7 @@ You can also find my articles on
 
 * CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
   Zhihui Gao\*, **Yunfan Gao**\*, Sulei Wang, Dan Li, Yuedong Xu.<br>
-  <i> IEEE Internet of Things Journal (**IoT Journal**) </i>, 2020.<br>
+  <i> IEEE Internet of Things Journal (IoT Journal) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
   [[dataset](https://github.com/zhihuigao/CRISLoc_dataset)]
   [[pdf](https://ieeexplore.ieee.org/abstract/document/9187854)]
