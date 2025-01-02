@@ -73,7 +73,7 @@ You can also find my articles on
 ## <a name="year2023"></a> 2023
 
 * Collision-free Motion Planning for Mobile Robots by Zero-order Robust Optimization-based MPC.<br>
-  Yunfan Gao, Florian Messerer, Jonathan Frey, Niels van Duijkeren, Moritz Diehl.<br>
+  **Yunfan Gao**, Florian Messerer, Jonathan Frey, Niels van Duijkeren, Moritz Diehl.<br>
   <i>Proc. of the European Control Conf. (ECC) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2023');">bibtex</a>]
   [[pdf](https://publications.syscop.de/Gao2023.pdf)]
