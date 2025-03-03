@@ -15,7 +15,7 @@ My research topic is "Efficient and Robust Motion Planning in Cramped and Uncert
 
 Research Highlights
 -----
-<h3>Collision-free motion planning is robustified while maintaining real-time feasibility.</h3>
+<h3>Collision-free motion planning is robustified while maintaining real-time feasibility using zero-order robust optimization (zoRO).</h3>
 <video id="teaser" autoplay muted loop playsinline style="max-width:80%">
   <source src="https://yf-gao.github.io/images/zoRO.mp4" type="video/mp4">
 </video>
