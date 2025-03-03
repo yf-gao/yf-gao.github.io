@@ -15,7 +15,8 @@ You can also find my articles on
 
 ## <a name="year2024"></a> 2024
 
-* Real-Time-Feasible Collision-Free Motion Planning For Ellipsoidal Objects.<br>
+<p id="item-Gao2024b"></p>
+[1] Real-Time-Feasible Collision-Free Motion Planning For Ellipsoidal Objects.<br>
   **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Boris Houska, Moritz Diehl.<br>
   <i> Proc. of the IEEE Conf. on Decision and Control (CDC)</i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024b');">bibtex</a>]
@@ -32,7 +33,7 @@ You can also find my articles on
   </div>
 
 
-* Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments.<br>
+[2] Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments.<br>
   **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Moritz Diehl.<br>
   <i> IFAC-PapersOnLine </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
@@ -53,7 +54,8 @@ You can also find my articles on
   </pre>
   </div>
 
-* Efficient Zero-Order Robust Optimization for Real-Time Model Predictive Control with acados.<br>
+<p id="item-Frey2024"> </p>
+[3] <a name="item-Frey2024"></a> Efficient Zero-Order Robust Optimization for Real-Time Model Predictive Control with acados.<br>
   Jonathan Frey, **Yunfan Gao**, Florian Messerer, Amon Lahr, Melanie N Zeilinger, Moritz Diehl.<br>
   <i> Proc. of the European Control Conf. (ECC) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Frey2024');">bibtex</a>]
@@ -72,7 +74,8 @@ You can also find my articles on
 
 ## <a name="year2023"></a> 2023
 
-* Collision-free Motion Planning for Mobile Robots by Zero-order Robust Optimization-based MPC.<br>
+<p id="item-Gao2023"> </p>
+[4] Collision-free Motion Planning for Mobile Robots by Zero-order Robust Optimization-based MPC.<br>
   **Yunfan Gao**, Florian Messerer, Jonathan Frey, Niels van Duijkeren, Moritz Diehl.<br>
   <i>Proc. of the European Control Conf. (ECC) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2023');">bibtex</a>]
@@ -90,7 +93,7 @@ You can also find my articles on
 
 ## <a name="year2021"></a> 2021
 
-* FedSwap: A federated learning based 5G decentralized dynamic spectrum access system.<br>
+[5] FedSwap: A federated learning based 5G decentralized dynamic spectrum access system.<br>
   Zhihui Gao, Ang Li, **Yunfan Gao**, Bing Li, Yu Wang, Yiran Chen.<br>
   <i> (INVITED) Proc. IEEE/ACM Int. Conf. On Computer Aided Design (ICCAD) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021fedswap');">bibtex</a>]
@@ -106,7 +109,7 @@ You can also find my articles on
   </pre>
   </div>
 
-* Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
+[6] Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
   Zhihui Gao, Ang Li, **Yunfan Gao**, Yu Wang, Yiran Chen.<br>
   <i> Proc. Int. Conf. on Embedded Wireless Systems and Networks (EWSN) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021hermes');">bibtex</a>]
@@ -127,7 +130,7 @@ You can also find my articles on
 
 ## <a name="year2020"></a> 2020
 
-* CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
+[7] CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
   Zhihui Gao\*, **Yunfan Gao**\*, Sulei Wang, Dan Li, Yuedong Xu.<br>
   <i> IEEE Internet of Things Journal (IoT Journal) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]

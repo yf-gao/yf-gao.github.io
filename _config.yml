@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunfan Gao"
 title_separator          : "-"
 name                     : &name "Yunfan Gao"
-description              : &description "Ph.D. student at Robert Bosch GmbH Corporate Research and University of Freiburg"
+description              : &description "Ph.D. student | Efficient and Robust Motion Planning"
 url                      : https://yf-gao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yf-gao.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunfan Gao"
+  name             : "Yunfan Gao (高云帆)"
   avatar           : "yunfan.jpg"
-  bio              : "Ph.D. student at Robert Bosch GmbH Corporate Research and University of Freiburg"
+  bio              : "Ph.D. student | Efficient and Robust Motion Planning"
   location         : "Renningen, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
