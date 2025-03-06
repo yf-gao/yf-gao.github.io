@@ -20,3 +20,9 @@ Research Highlights
   <source src="https://yf-gao.github.io/images/zoRO.mp4" type="video/mp4">
 </video>
 See details in <a href='publications#item-Gao2023'>[4]</a>, <a href='publications#item-Frey2024'>[3]</a>.
+
+<h3>Collision avoidance between two ellipsoids can be formulated using an over-approximation of the Minkowski sum of the two ellipsoids.</h3>
+<video id="teaser" autoplay muted loop playsinline style="max-width:80%">
+  <source src="https://yf-gao.github.io/images/EllipsoidMinkowskiSum.mp4" type="video/mp4">
+</video>
+See details in <a href='publications#item-Gao2024b'>[1]</a>.
