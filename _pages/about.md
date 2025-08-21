@@ -16,14 +16,21 @@ My PhD research is on "Robust Motion Planning of Fast Robots in Confined Spaces"
 
 Research Highlights
 -----
+<h3> Using LiDAR point clouds directly as the environment representation, the controller navigates narrow corridors and adapts seamlessly to changes of the environment.
+</h3>
+<video id="teaser" autoplay muted loop playsinline style="max-width:70%">
+  <source src="https://yf-gao.github.io/images/pointcloud-SIP.mp4" type="video/mp4">
+</video>
+See details in <a href='publications#item-Gao2025'>[1]</a>.
+
 <h3>Collision avoidance between two ellipsoids can be formulated using an over-approximation of the Minkowski sum of the two ellipsoids.</h3>
 <video id="teaser" autoplay muted loop playsinline style="max-width:70%">
   <source src="https://yf-gao.github.io/images/EllipsoidMinkowskiSum.mp4" type="video/mp4">
 </video>
-See details in <a href='publications#item-Gao2024b'>[1]</a>.
+See details in <a href='publications#item-Gao2024b'>[2]</a>.
 
 <h3>Collision-free motion planning is robustified while maintaining real-time feasibility using zero-order robust optimization (zoRO).</h3>
 <video id="teaser" autoplay muted loop playsinline style="max-width:70%">
   <source src="https://yf-gao.github.io/images/zoRO.mp4" type="video/mp4">
 </video>
-See details in <a href='publications#item-Gao2023'>[4]</a>, <a href='publications#item-Frey2024'>[3]</a>.
+See details in <a href='publications#item-Gao2023'>[5]</a>, <a href='publications#item-Frey2024'>[4]</a>.
