@@ -20,6 +20,7 @@ in Optimal and Model Predictive Control.<br>
   <i> arxiv</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2025');">bibtex</a>]
   [[pdf](https://arxiv.org/pdf/2508.12335)]
+  [[code](https://github.com/boschresearch/sip_optimal_control)]
   <div id="bibtex-Gao2025" style="display:none">
   <pre>
   @Misc{Gao2025,
