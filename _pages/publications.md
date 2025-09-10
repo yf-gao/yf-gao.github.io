@@ -40,6 +40,7 @@ in Optimal and Model Predictive Control.<br>
   <i> Proc. of the IEEE Conf. on Decision and Control (CDC)</i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024b');">bibtex</a>]
   [[pdf](http://www.arxiv.org/pdf/2409.12007)]
+  [[code](https://github.com/boschresearch/ca_motion_planning_optimal_control)]
   <div id="bibtex-Gao2024b" style="display:none">
   <pre>
   @inproceedings{Gao2024b,
