@@ -21,16 +21,16 @@ Research Highlights
 <video id="teaser" autoplay muted loop playsinline style="max-width:70%">
   <source src="https://yf-gao.github.io/images/pointcloud-SIP.mp4" type="video/mp4">
 </video>
-See details in <a href='publications#item-Gao2025'>[1]</a>.
+See details in <a href='publications#item-Gao2025'>[2]</a>.
 
 <h3>Collision avoidance between two ellipsoids can be formulated using an over-approximation of the Minkowski sum of the two ellipsoids.</h3>
 <video id="teaser" autoplay muted loop playsinline style="max-width:70%">
   <source src="https://yf-gao.github.io/images/EllipsoidMinkowskiSum.mp4" type="video/mp4">
 </video>
-See details in <a href='publications#item-Gao2024b'>[2]</a>.
+See details in <a href='publications#item-Gao2024b'>[3]</a>.
 
 <h3>Collision-free motion planning is robustified while maintaining real-time feasibility using zero-order robust optimization (zoRO).</h3>
 <video id="teaser" autoplay muted loop playsinline style="max-width:70%">
   <source src="https://yf-gao.github.io/images/zoRO.mp4" type="video/mp4">
 </video>
-See details in <a href='publications#item-Gao2023'>[5]</a>, <a href='publications#item-Frey2024'>[4]</a>.
+See details in <a href='publications#item-Gao2023'>[6]</a>, <a href='publications#item-Frey2024'>[5]</a>.

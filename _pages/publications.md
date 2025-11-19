@@ -13,8 +13,26 @@ You can also find my articles on
 ## [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2021](#year2021) | [2020](#year2020)
 
 ## <a name="year2025"></a> 2025
+<p id="item-Messerer2025"></p>
+[1] Riccati-ZORO: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control.<br>
+Florian Messerer, **Yunfan Gao**, Jonathan Frey, Moritz Diehl.<br>
+  <i> arxiv</i>, 2025.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Messerer2025');">bibtex</a>]
+  [[pdf](https://arxiv.org/pdf/2508.12335)]
+  [[code](https://github.com/boschresearch/sip_optimal_control)]
+  <div id="bibtex-Messerer2025" style="display:none">
+  <pre>
+  @Misc{Messerer2025,
+  author    = {Messerer, Florian and Gao, Yunfan and Frey, Jonathan and Diehl, Moritz},
+  title     = {Riccati-{ZORO}: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control},
+  year      = {2025},
+  doi       = {10.48550/ARXIV.2511.10473},
+}
+  </pre>
+  </div>
+
 <p id="item-Gao2025"></p>
-[1] Semi-Infinite Programming for Collision-Avoidance
+[2] Semi-Infinite Programming for Collision-Avoidance
 in Optimal and Model Predictive Control.<br>
 **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl.<br>
   <i> arxiv</i>, 2025.<br>
@@ -35,7 +53,7 @@ in Optimal and Model Predictive Control.<br>
 ## <a name="year2024"></a> 2024
 
 <p id="item-Gao2024b"></p>
-[2] Real-Time-Feasible Collision-Free Motion Planning For Ellipsoidal Objects.<br>
+[3] Real-Time-Feasible Collision-Free Motion Planning For Ellipsoidal Objects.<br>
   **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Boris Houska, Moritz Diehl.<br>
   <i> Proc. of the IEEE Conf. on Decision and Control (CDC)</i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024b');">bibtex</a>]
@@ -53,7 +71,7 @@ in Optimal and Model Predictive Control.<br>
   </div>
 
 
-[3] Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments.<br>
+[4] Stochastic Model Predictive Control with Optimal Linear Feedback for Mobile Robots in Dynamic Environments.<br>
   **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Moritz Diehl.<br>
   <i> IFAC-PapersOnLine </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2024');">bibtex</a>]
@@ -75,7 +93,7 @@ in Optimal and Model Predictive Control.<br>
   </div>
 
 <p id="item-Frey2024"> </p>
-[4] <a name="item-Frey2024"></a> Efficient Zero-Order Robust Optimization for Real-Time Model Predictive Control with acados.<br>
+[5] <a name="item-Frey2024"></a> Efficient Zero-Order Robust Optimization for Real-Time Model Predictive Control with acados.<br>
   Jonathan Frey, **Yunfan Gao**, Florian Messerer, Amon Lahr, Melanie N Zeilinger, Moritz Diehl.<br>
   <i> Proc. of the European Control Conf. (ECC) </i>, 2024.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Frey2024');">bibtex</a>]
@@ -95,7 +113,7 @@ in Optimal and Model Predictive Control.<br>
 ## <a name="year2023"></a> 2023
 
 <p id="item-Gao2023"> </p>
-[5] Collision-free Motion Planning for Mobile Robots by Zero-order Robust Optimization-based MPC.<br>
+[6] Collision-free Motion Planning for Mobile Robots by Zero-order Robust Optimization-based MPC.<br>
   **Yunfan Gao**, Florian Messerer, Jonathan Frey, Niels van Duijkeren, Moritz Diehl.<br>
   <i>Proc. of the European Control Conf. (ECC) </i>, 2023.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2023');">bibtex</a>]
@@ -113,7 +131,7 @@ in Optimal and Model Predictive Control.<br>
 
 ## <a name="year2021"></a> 2021
 
-[6] FedSwap: A federated learning based 5G decentralized dynamic spectrum access system.<br>
+[7] FedSwap: A federated learning based 5G decentralized dynamic spectrum access system.<br>
   Zhihui Gao, Ang Li, **Yunfan Gao**, Bing Li, Yu Wang, Yiran Chen.<br>
   <i> (INVITED) Proc. IEEE/ACM Int. Conf. On Computer Aided Design (ICCAD) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021fedswap');">bibtex</a>]
@@ -129,7 +147,7 @@ in Optimal and Model Predictive Control.<br>
   </pre>
   </div>
 
-[7] Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
+[8] Hermes: Decentralized dynamic spectrum access system for massive devices deployment in 5G.<br>
   Zhihui Gao, Ang Li, **Yunfan Gao**, Yu Wang, Yiran Chen.<br>
   <i> Proc. Int. Conf. on Embedded Wireless Systems and Networks (EWSN) </i>, 2021.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2021hermes');">bibtex</a>]
@@ -150,7 +168,7 @@ in Optimal and Model Predictive Control.<br>
 
 ## <a name="year2020"></a> 2020
 
-[8] CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
+[9] CRISLoc: Reconstructable CSI fingerprinting for indoor smartphone localization.<br>
   Zhihui Gao\*, **Yunfan Gao**\*, Sulei Wang, Dan Li, Yuedong Xu.<br>
   <i> IEEE Internet of Things Journal (IoT Journal) </i>, 2020.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-gao2020crisloc');">bibtex</a>]
