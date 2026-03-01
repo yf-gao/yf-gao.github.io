@@ -15,7 +15,7 @@ You can also find my articles on
 ## <a name="year2026"></a> 2026
 
 <p id="item-Gao2026"></p>
-[2] Semi-Infinite Programming for Collision-Avoidance
+[1] Semi-Infinite Programming for Collision-Avoidance
 in Optimal and Model Predictive Control.<br>
 **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl.<br>
   <i> IEEE Transactions on Robotics, to appear</i>, 2026.<br>
