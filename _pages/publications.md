@@ -10,7 +10,28 @@ You can also find my articles on
 
 {% include base_path %}
 
-## [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2021](#year2021) | [2020](#year2020)
+## [2026](#year2026) | [2025](#year2025) | [2024](#year2024) | [2023](#year2023) | [2021](#year2021) | [2020](#year2020)
+
+## <a name="year2026"></a> 2026
+
+<p id="item-Gao2026"></p>
+[2] Semi-Infinite Programming for Collision-Avoidance
+in Optimal and Model Predictive Control.<br>
+**Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl.<br>
+  <i> IEEE Transactions on Robotics, to appear</i>, 2026.<br>
+  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2026');">bibtex</a>]
+  [[pdf](https://arxiv.org/pdf/2508.12335)]
+  [[code](https://github.com/boschresearch/sip_optimal_control)]
+  <div id="bibtex-Gao2026" style="display:none">
+  <pre>
+  @Misc{Gao2026,
+  author    = {Gao, Yunfan and Messerer, Florian and van Duijkeren, Niels and Dabir, Rashmi and Diehl, Moritz},
+  title     = {Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control},
+  year      = {2026},
+  doi       = {10.48550/ARXIV.2508.12335},
+}
+  </pre>
+  </div>
 
 ## <a name="year2025"></a> 2025
 <p id="item-Messerer2025"></p>
@@ -31,24 +52,6 @@ Florian Messerer, **Yunfan Gao**, Jonathan Frey, Moritz Diehl.<br>
   </pre>
   </div>
 
-<p id="item-Gao2025"></p>
-[2] Semi-Infinite Programming for Collision-Avoidance
-in Optimal and Model Predictive Control.<br>
-**Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl.<br>
-  <i> arxiv</i>, 2025.<br>
-  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2025');">bibtex</a>]
-  [[pdf](https://arxiv.org/pdf/2508.12335)]
-  [[code](https://github.com/boschresearch/sip_optimal_control)]
-  <div id="bibtex-Gao2025" style="display:none">
-  <pre>
-  @Misc{Gao2025,
-  author    = {Gao, Yunfan and Messerer, Florian and van Duijkeren, Niels and Dabir, Rashmi and Diehl, Moritz},
-  title     = {Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control},
-  year      = {2025},
-  doi       = {10.48550/ARXIV.2508.12335},
-}
-  </pre>
-  </div>
 
 ## <a name="year2024"></a> 2024
 
