@@ -35,7 +35,7 @@ in Optimal and Model Predictive Control.<br>
 
 ## <a name="year2025"></a> 2025
 <p id="item-Messerer2025"></p>
-[1] Riccati-ZORO: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control.<br>
+[2] Riccati-ZORO: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control.<br>
 Florian Messerer, **Yunfan Gao**, Jonathan Frey, Moritz Diehl.<br>
   <i> arxiv</i>, 2025.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Messerer2025');">bibtex</a>]
