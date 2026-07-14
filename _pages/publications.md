@@ -18,17 +18,21 @@ You can also find my articles on
 [1] Semi-Infinite Programming for Collision-Avoidance
 in Optimal and Model Predictive Control.<br>
 **Yunfan Gao**, Florian Messerer, Niels van Duijkeren, Rashmi Dabir, Moritz Diehl.<br>
-  <i> IEEE Transactions on Robotics, to appear</i>, 2026.<br>
+  <i> IEEE Transactions on Robotics</i>, vol. 42, pp. 2399–2418, 2026.<br>
   [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-Gao2026');">bibtex</a>]
   [[pdf](https://arxiv.org/pdf/2508.12335)]
   [[code](https://github.com/boschresearch/sip_optimal_control)]
   <div id="bibtex-Gao2026" style="display:none">
   <pre>
-  @Misc{Gao2026,
+  @Article{Gao2026,
   author    = {Gao, Yunfan and Messerer, Florian and van Duijkeren, Niels and Dabir, Rashmi and Diehl, Moritz},
-  title     = {Semi-Infinite Programming for Collision-Avoidance in Optimal and Model Predictive Control},
+  journal   = {IEEE Transactions on Robotics},
+  title     = {Semi-Infinite Programming for Collision Avoidance in Optimal and Model-Predictive Control},
   year      = {2026},
-  doi       = {10.48550/ARXIV.2508.12335},
+  issn      = {1941-0468},
+  pages     = {2399--2418},
+  volume    = {42},
+  doi       = {10.1109/tro.2026.3686181},
 }
   </pre>
   </div>
