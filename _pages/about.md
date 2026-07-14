@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![image](https://yf-gao.github.io/images/robots.png){: style="float: right; margin-top: 0.5em; margin-left: 0.2;" width="30%"}
-Hi, I am a [Digital Future Postdoctoral Fellow](https://www.digitalfutures.kth.se/) in the Department of Robotics, Perception and Learning ([RPL](https://www.kth.se/rpl/)) at KTH Royal Institute of Technology,
+Hi, I am a [Digital Futures Postdoctoral Fellow](https://www.digitalfutures.kth.se/) in the Department of Robotics, Perception and Learning ([RPL](https://www.kth.se/rpl/)) at KTH Royal Institute of Technology,
 where I work with [Prof. Danica Kragic Jensfelt](https://www.kth.se/profile/dani) and [Prof. Dimos V. Dimarogonas](https://people.kth.se/~dimos/).
 
 From March 2022 to June 2026 I was a PhD student at the University of Freiburg under the academic supervision of [Prof. Moritz Diehl](https://www.syscop.de/people/moritz-diehl),
