@@ -1,0 +1,434 @@
+/* ==========================================================================
+   SITE THEME
+   Card-style homepage components, coloured with the KTH palette.
+   ========================================================================== */
+
+:root {
+  /* KTH Blue #004791, KTH Navy #000061 */
+  --accent: #004791;
+  --accent-dark: #000061;
+  --accent-soft: #edf3fa;
+  --accent-border: #cddcee;
+  --ink: #22272f;
+  --ink-soft: #4a5361;
+  --muted: #6b7480;
+  --line: #e6e8ee;
+  --line-soft: #eef0f5;
+  --surface: #ffffff;
+  --surface-alt: #f7f9fc;
+  --radius: 14px;
+  --radius-sm: 10px;
+  --shadow: 0 6px 18px rgba(20, 30, 60, 0.05);
+  --shadow-lift: 0 10px 26px rgba(20, 30, 60, 0.10);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+body {
+  color: var(--ink-soft);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  color: #fff;
+  background: var(--accent);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.page__title,
+.archive h1.page__title {
+  font-size: 1.9em;
+  letter-spacing: -0.02em;
+}
+
+.page__content p,
+.page__content li,
+.archive p,
+.archive li {
+  line-height: 1.65;
+}
+
+a {
+  color: var(--accent);
+  transition: color 0.15s ease-in-out;
+
+  &:hover,
+  &:focus { color: var(--accent-dark); }
+
+  &:visited { color: var(--accent); }
+}
+
+.archive a.pill,
+.archive .pub-links a,
+.archive .year-nav a,
+.archive .bib-toggle {
+  text-decoration: none;
+}
+
+/* Sidebar ------------------------------------------------------------- */
+
+.author__avatar img {
+  border-radius: 50%;
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.author__name { letter-spacing: -0.01em; }
+
+.author__bio {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.author__urls-wrapper .btn,
+.author__urls-wrapper #goog-wm-sb {
+  border-radius: 999px;
+}
+
+.author__urls {
+  border-radius: var(--radius-sm);
+  border-color: var(--line);
+  box-shadow: var(--shadow);
+
+  li { padding: 0.35em 0; }
+}
+
+/* Masthead ------------------------------------------------------------ */
+
+.masthead {
+  border-bottom: 1px solid var(--line);
+  border-top: 3px solid var(--accent);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: saturate(150%) blur(8px);
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.greedy-nav a {
+  color: var(--ink-soft);
+
+  &:hover { color: var(--accent); }
+}
+
+/* Intro card ---------------------------------------------------------- */
+
+.intro-card {
+  padding: 1.5rem 1.6rem;
+  margin: 0 0 1.75rem;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: linear-gradient(135deg, var(--accent-soft) 0%, #fff 60%);
+  box-shadow: var(--shadow);
+
+  p {
+    margin: 0.6rem 0;
+    line-height: 1.7;
+  }
+
+  p:first-child { margin-top: 0; }
+  p:last-child { margin-bottom: 0; }
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.9rem 0 0;
+  padding: 0;
+  list-style: none;
+
+  span,
+  li {
+    display: inline-block;
+    padding: 0.28rem 0.7rem;
+    border: 1px solid var(--accent-border);
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent-dark);
+    font-size: 0.82em;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+}
+
+.callout {
+  margin: 1.1rem 0 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--accent-border);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius-sm);
+  background: var(--accent-soft);
+  color: var(--accent-dark);
+  font-weight: 600;
+  line-height: 1.55;
+
+  p { margin: 0; }
+}
+
+/* Section headings ---------------------------------------------------- */
+
+.page__content .section-title,
+.archive .section-title,
+.section-title {
+  margin: 2.2rem 0 0.9rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--line-soft);
+  font-size: 1.35em;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+/* News ---------------------------------------------------------------- */
+
+.news-box {
+  max-height: 19em;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.9rem 1.1rem;
+  margin-bottom: 1.6rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+
+  ul {
+    margin: 0;
+    padding-left: 1.15rem;
+  }
+
+  li {
+    margin: 0.5rem 0;
+    line-height: 1.55;
+
+    &::marker { color: var(--accent); }
+  }
+}
+
+/* Research highlights ------------------------------------------------- */
+
+.highlight-card {
+  margin: 0 0 1.4rem;
+  padding: 1rem 1.2rem 1.1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+
+  &__text {
+    margin: 0 0 0.8rem;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--ink);
+  }
+
+  video {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    border-radius: var(--radius-sm);
+    background: var(--surface-alt);
+  }
+
+  &__more {
+    margin: 0.7rem 0 0;
+    color: var(--muted);
+    font-size: 0.9em;
+  }
+}
+
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 1rem 0 1.6rem;
+  border-radius: var(--radius);
+  background: var(--surface-alt);
+  box-shadow: var(--shadow-lift);
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+/* Publications -------------------------------------------------------- */
+
+.pub {
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--line-soft);
+
+  &:last-child { border-bottom: 0; }
+}
+
+.pub-body { min-width: 0; }
+
+.pub-title {
+  margin-bottom: 0.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+.pub-authors {
+  margin-bottom: 0.15rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+
+  b,
+  strong { color: var(--ink); }
+}
+
+.pub-venue {
+  line-height: 1.5;
+  color: var(--muted);
+  font-size: 0.95em;
+}
+
+.pub-badge {
+  display: inline-block;
+  margin-right: 0.4rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 5px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  vertical-align: 1px;
+  white-space: nowrap;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+}
+
+.pub-links a,
+.bib-toggle {
+  display: inline-block;
+  padding: 0.14rem 0.6rem;
+  border: 1px solid var(--accent-border);
+  border-radius: 999px;
+  background: var(--surface-alt);
+  color: var(--accent);
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.6;
+  text-decoration: none;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+  &:hover,
+  &:focus {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+.bib-toggle {
+  font-family: inherit;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+
+  &[aria-expanded="true"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+}
+
+.bib {
+  display: none;
+  margin-top: 0.6rem;
+
+  &.is-open { display: block; }
+
+  pre {
+    margin: 0;
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    background: var(--surface-alt);
+    color: var(--ink-soft);
+    font-size: 0.8em;
+    line-height: 1.5;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+}
+
+.bib-copy {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  font-family: inherit;
+  font-size: 0.75em;
+  font-weight: 600;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+
+  &:hover,
+  &:focus {
+    color: var(--accent);
+    border-color: var(--accent-border);
+  }
+}
+
+.pub-more {
+  margin: 0.6rem 0 0;
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .intro-card { padding: 1.15rem; }
+  .news-box { max-height: 22em; }
+}
+
+@media print {
+  .intro-card,
+  .news-box,
+  .highlight-card,
+  .pub {
+    box-shadow: none;
+    border-color: #ddd;
+  }
+
+  .news-box {
+    max-height: none;
+    overflow: visible;
+  }
+
+  .bib,
+  .video-embed {
+    display: none !important;
+  }
+}
