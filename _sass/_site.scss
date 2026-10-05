@@ -226,14 +226,6 @@ a {
   background: var(--surface);
   box-shadow: var(--shadow);
 
-  &__text {
-    margin: 0 0 0.8rem;
-    font-size: 1em;
-    font-weight: normal;
-    line-height: 1.7;
-    color: var(--ink-soft);
-  }
-
   video {
     display: block;
     width: 100%;
@@ -241,15 +233,22 @@ a {
     border-radius: var(--radius-sm);
     background: var(--surface-alt);
   }
-
-  &__more {
-    margin: 0.7rem 0 0;
-    font-size: 1em;
-    font-weight: normal;
-    line-height: 1.7;
-    color: var(--ink-soft);
-  }
 }
+
+/* Same typography as the intro paragraphs. Scoped under .page__content so it
+   beats the theme's `.page__content p` rule. */
+.page__content .highlight-card__text,
+.page__content .highlight-card__more {
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.7;
+  color: var(--ink-soft);
+}
+
+.page__content .highlight-card__text { margin: 0 0 0.5rem; }
+
+.page__content .highlight-card__more { margin: 1.0rem 0 0; }
 
 .video-embed {
   position: relative;
