@@ -9,7 +9,6 @@ author_profile: true
 
 <nav class="year-nav" aria-label="Jump to publication year">
   <a href="#year2026">2026</a>
-  <a href="#year2025">2025</a>
   <a href="#year2024">2024</a>
   <a href="#year2023">2023</a>
   <a href="#year2021">2021</a>
@@ -39,21 +38,22 @@ author_profile: true
 }</pre></div>
 </div>
 
-<h2 class="section-title year-heading" id="year2025">2025</h2>
-
-<div class="pub" id="item-Messerer2025">
+<div class="pub" id="item-Messerer2026">
   <div class="pub-title">Riccati-ZORO: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control</div>
   <div class="pub-authors">Florian Messerer, <b>Yunfan Gao</b>, Jonathan Frey, Moritz Diehl</div>
-  <div class="pub-venue"><span class="pub-badge">arXiv</span> arXiv preprint, 2025</div>
+  <div class="pub-venue"><span class="pub-badge">EJC</span> European Journal of Control, article 101563, 2026</div>
   <div class="pub-links">
-    <button type="button" class="bib-toggle" data-bib="bibtex-Messerer2025">BibTeX</button>
-    <a href="https://arxiv.org/abs/2511.10473">paper</a>
+    <button type="button" class="bib-toggle" data-bib="bibtex-Messerer2026">BibTeX</button>
+    <a href="https://doi.org/10.1016/j.ejcon.2026.101563">paper</a>
+    <a href="https://arxiv.org/abs/2511.10473">arXiv</a>
   </div>
-  <div class="bib" id="bibtex-Messerer2025"><pre>@Misc{Messerer2025,
-  author    = {Messerer, Florian and Gao, Yunfan and Frey, Jonathan and Diehl, Moritz},
-  title     = {Riccati-{ZORO}: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control},
-  year      = {2025},
-  doi       = {10.48550/ARXIV.2511.10473},
+  <div class="bib" id="bibtex-Messerer2026"><pre>@Article{Messerer2026,
+  author  = {Messerer, Florian and Gao, Yunfan and Frey, Jonathan and Diehl, Moritz},
+  journal = {European Journal of Control},
+  title   = {Riccati-{ZORO}: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control},
+  year    = {2026},
+  pages   = {101563},
+  doi     = {10.1016/j.ejcon.2026.101563},
 }</pre></div>
 </div>
 

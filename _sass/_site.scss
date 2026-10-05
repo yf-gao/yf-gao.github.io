@@ -229,9 +229,9 @@ a {
   &__text {
     margin: 0 0 0.8rem;
     font-size: 1em;
-    font-weight: 600;
-    line-height: 1.5;
-    color: var(--ink);
+    font-weight: normal;
+    line-height: 1.7;
+    color: var(--ink-soft);
   }
 
   video {
@@ -244,8 +244,10 @@ a {
 
   &__more {
     margin: 0.7rem 0 0;
-    color: var(--muted);
-    font-size: 0.9em;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.7;
+    color: var(--ink-soft);
   }
 }
 
